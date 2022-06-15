@@ -14,9 +14,9 @@
   "author": "LolKill & Zee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeneofc/"
+    "url": "https://github.com/cekilv/"
   },
-  "homepage": "https://github.com/zeeoneofc",
+  "homepage": "https://github.com/cekilv",
   "dependencies": {
     "@lolikillers/aexm-api": "github:Aexm47/AEXM47",
     "axios": "^0.21.1",
